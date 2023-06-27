@@ -5,9 +5,8 @@ body {
 html {
     font-size = 20px;
 }
-#prof-font{
+h1 {
     font-family: 'Josefin Sans', sans-serif;
-    font-family: 'Noto Sans JP', sans-serif;
     font-size: 2rem;
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px gray;
